@@ -1,13 +1,14 @@
-# Animated Bear Swift
+# Monkey Space Swift
 
-A delightful SwiftUI application featuring an animated bear character with interactive animations and transitions.
+A fun SwiftUI game featuring an animated monkey character that dodges UFOs and collects bananas to regain health and score points. The game increases in difficulty as more bananas are collected, providing an engaging challenge for players.
 
 ## Features
 
-- Interactive bear character animations
-- Smooth SwiftUI transitions
-- Gesture-based interactions
-- Clean and modern UI design
+- Animated monkey character with smooth interactions
+- UFOs to avoid and bananas to catch
+- Dynamic difficulty scaling based on collected bananas
+- Gesture-based controls for interactive gameplay
+- Clean and modern UI design with smooth transitions
 
 ## Requirements
 
@@ -18,17 +19,17 @@ A delightful SwiftUI application featuring an animated bear character with inter
 ## Installation
 
 1. Clone this repository
-2. Open `AnimatedBearSwift.xcodeproj` in Xcode
+2. Open `MonkeySpaceSwift.xcodeproj` in Xcode
 3. Build and run the project on your simulator or device
 
 ## Usage
 
-The app demonstrates various SwiftUI animation capabilities through an interactive bear character:
+The app features a monkey character that interacts with the game world through various gestures:
 
-- Tap the bear to trigger animations
-- Swipe gestures for different interactions
-- State-based animations
-- Smooth transitions between views
+- Tap to make the monkey jump and dodge UFOs
+- Swipe gestures for different movements
+- Collect bananas to regain health and increase your score
+- As you catch more bananas, the game difficulty increases, introducing more obstacles
 
 ## Technologies Used
 
@@ -39,7 +40,7 @@ The app demonstrates various SwiftUI animation capabilities through an interacti
 
 ## Contributing
 
-Feel free to submit issues, fork the repository and create pull requests for any improvements.
+Feel free to submit issues, fork the repository, and create pull requests for improvements.
 
 ## License
 
